@@ -36,6 +36,7 @@ A pure bash script sending Mattermost notifications through incoming webhooks.
 5. `--color`
 6. `--field`
 7. `--link`
+8. `--channel`
 
 ⚠️ **None of those parameters are required** ⚠️
 

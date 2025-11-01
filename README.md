@@ -88,7 +88,7 @@ List of tags: [https://github.com/dix/mattermost.sh/pkgs/container/mattermost.sh
 
 ## Limitations
 
-In its current iteration, the script relies on some hard-coded settings that can't be changed through parameters and require important changes to the source code, mainly:
+In its current iteration, the script relies on some hard-coded settings that can't be modified through parameters and require important changes to the source code, mainly:
 - timezones for the notifications
 
 ## Acknowledgements

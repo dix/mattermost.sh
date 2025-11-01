@@ -76,6 +76,8 @@ This option can be provided O to n times to add n links.
 
 Overwrite the default channel to send the notification to.
 
+The expected value is the channel `slug` as defined in its URL, not its display name.
+
 The incoming webhook must not be locked to its default channel.
 
 ## Docker
